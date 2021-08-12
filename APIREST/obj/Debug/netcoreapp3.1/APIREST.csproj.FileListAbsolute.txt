@@ -1,0 +1,30 @@
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.exe
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.deps.json
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.runtimeconfig.json
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.runtimeconfig.dev.json
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.dll
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.pdb
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.csproj.AssemblyReference.cache
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.AssemblyInfoInputs.cache
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.AssemblyInfo.cs
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.csproj.CoreCompileInputs.cache
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.csproj.CopyComplete
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.dll
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.pdb
+C:\Users\erealmer\Documents\Visual Studio 2019\Proyectos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.genruntimeconfig.cache
+C:\Cursos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.csproj.AssemblyReference.cache
+C:\Cursos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.AssemblyInfoInputs.cache
+C:\Cursos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.AssemblyInfo.cs
+C:\Cursos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.csproj.CoreCompileInputs.cache
+C:\Cursos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.dll
+C:\Cursos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.pdb
+C:\Cursos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.exe
+C:\Cursos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.deps.json
+C:\Cursos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.runtimeconfig.json
+C:\Cursos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.runtimeconfig.dev.json
+C:\Cursos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.dll
+C:\Cursos\API\APIREST\bin\Debug\netcoreapp3.1\APIREST.pdb
+C:\Cursos\API\APIREST\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Cursos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.csproj.CopyComplete
+C:\Cursos\API\APIREST\obj\Debug\netcoreapp3.1\APIREST.genruntimeconfig.cache
